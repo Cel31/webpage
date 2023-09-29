@@ -1,6 +1,6 @@
 
 
-## 1welcome👋 I'm Celine
+## Welcome👋 I'm Celine
 
 ### 🔭 I'm currently working on improving FAIR practices in the phytolith research community with ICOPS.
 - ICOPS is involved in the training and communication of open science tools (GitHub) for phytolith researchers.
