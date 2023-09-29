@@ -10,6 +10,10 @@
 
 - I am using a participant-observation approach to learn about the raw materials, techniques, technology, and purposes of basket making. 
 - I aim to learn how practitioners assess the properties or qualities of the materials they use, and how the materials are related to end products and uses.
+- I am building up a project about making out biodegradable objects made of local plants. Baskets extend the fibrous properties of plants, and often offer practical and sustainable solutions to the problems of over-exploitation and misuse of petrochemical materials.
+  Find out more there
+
+
 
 ### 🌱 I’m currently learning: 
 - how to use open science tools
